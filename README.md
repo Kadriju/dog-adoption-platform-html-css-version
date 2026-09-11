@@ -1,6 +1,6 @@
 # Dog Adoption Platform — HTML & CSS Version
 
-This repository contains the **vanilla HTML and CSS** version of the Dog Adoption Platform project. It is the initial foundation of the site, created before introducing any frameworks such as Tailwinfd or JavaScript enhancements.
+This repository contains the initial **vanilla HTML and CSS** version of the Dog Adoption Platform project. It is the initial foundation of the site, created before introducing any frameworks such as Tailwinfd or JavaScript enhancements.
 
 ## Purpose
 
