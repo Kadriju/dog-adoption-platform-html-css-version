@@ -14,7 +14,7 @@ This repository contains the **vanilla HTML and CSS** version of the Dog Adoptio
 - Custom CSS for layout, colors, typography, and responsiveness
 - No external libraries or frameworks used
 
-## Next Steps
+## Overview
 
 This version will be progressively refactored into a **Tailwind CSS-based** version for faster development, improved design scalability, and utility-first styling.
 
